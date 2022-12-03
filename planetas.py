@@ -10,7 +10,8 @@ planet_gravity = {
     "Jupiter": 2.64,
     "Saturno": 1.15,
     "Urano": 0.92,
-    "Neptuno": 1.19
+    "Neptuno": 1.19,
+    "sol": 27.9,
 }
 
 # Imprimir el peso del usuario en cada planeta
